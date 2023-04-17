@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mohamed-asim
 - 👀 I’m interested in Frontend Dev
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and React Native
 - 💞️ I’m looking to collaborate on personal and freelance projects
-- 📫 How to reach me via this platform
+- 📫 How to reach me via this platform: Linkedin 📰 https://www.linkedin.com/in/mohamed-asim-r/
 
 <!---
 mohamed-asim/mohamed-asim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
